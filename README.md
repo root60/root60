@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @root60
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning SQLi
+- 🌱 I’m currently learning BugHunting 
 - 💞️ I’m looking to collaborate on Muslim Hackers
 - 📫 How to reach me t.me/ItsRedHydra
 
