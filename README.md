@@ -64,10 +64,8 @@
 ---  
 
 ## 📥 Get in Touch  
-
-- **Email**: [your-email@domain.com](mailto:your-email@domain.com)  
-- **LinkedIn**: [linkedin.com/in/root60](https://linkedin.com/in/root60)  
-- **Twitter**: [twitter.com/root60](https://twitter.com/root60)  
+ 
+- **Telegram**: [https://t.me/ItsRedHydra](https://t.me/ItsRedHydra)
 
 ---  
 
