@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 
-- **Full Name**: RedHydra  
+- **Full Name**: RedHydra 
 - **Code Name**: root60 🔥  
 - **Location**: Earth 🌍  
 - **Status**: Ready to Code 💻 24/7  
@@ -31,12 +31,9 @@ Kali Linux VPS with RDP access. 🔴⚫
 - **Stars**: ⭐ [Star it here!](https://github.com/root60/Kali-VPS-RDP)  
 - **Forks**: 🍴 [Fork it here!](https://github.com/root60/Kali-VPS-RDP/fork)  
 
-## 🌐 Zone-H Profile  
-
-Check out my Zone-H profile to view my contributions to web defacement activities: [Zone-H - RedHydra](https://www.zone-h.org/archive/notifier=RedHydra) 🔍  
-
-### 🕵️ About Web Defacement  
-Web defacement is a common method used by hackers to showcase their skills and send political messages. On my Zone-H profile, you can find details of my contributions and the defacement reports I have associated with, demonstrating my work in this realm of cybersecurity and ethical hacking.  
+### 🌐 Zone-H Profile  
+My contributions to web defacement activities can be found on my Zone-H profile: [Zone-H - RedHydra](https://www.zone-h.org/archive/notifier=RedHydra) 🔍  
+- **Web Defacement**: Showcasing my skills and sending messages through web defacement reports. The Zone-H archive documents my contributions in this area of cybersecurity and ethical hacking.  
 
 ## 🎯 New Project Ideas  
 
