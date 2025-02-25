@@ -78,17 +78,6 @@
 
 ---  
 
-## 🎉 Open Source Contributions  
-
-- Contributions to [insert any open-source projects you've contributed to or a relevant link].  
-
----  
-
-## 🏆 Certifications  
-
-- [Insert any certifications you have, e.g., AWS Certified, CISSP, etc.]  
-
----  
 
 ## 🎯 Interests  
 
