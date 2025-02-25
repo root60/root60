@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 
-- **Full Name**: root60  
+- **Full Name**: RedHydra  
 - **Code Name**: root60 🔥  
 - **Location**: Earth 🌍  
 - **Status**: Ready to Code 💻 24/7  
