@@ -1,33 +1,52 @@
-## 🌟 Featured Projects
+## 🔐 Security Projects
 
 <div align="center">
 
-### [🔮 Project Name 1](https://github.com/root60/repo1)
-_Short catchy description in one line_  
-![Language](https://img.shields.io/badge/Python-100%25-blue?logo=python)
-![Stars](https://img.shields.io/github/stars/root60/repo1?color=yellow&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/root60/repo1?color=green&logo=git)
+### [🔒 WordEncryptor](https://github.com/root60/WordEncryptor) 
+_AES-256 File Encryption Suite_  
+![Stars](https://img.shields.io/github/stars/root60/WordEncryptor?style=flat-square&label=Stars&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/root60/WordEncryptor?style=flat-square&label=Updated&color=green)
+![Issues](https://img.shields.io/github/issues/root60/WordEncryptor?style=flat-square&label=Issues&color=yellow)
+
+**Tech Stack**: 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Cryptography](https://img.shields.io/badge/-AES-256-000000?logo=openssl)
+![GUI](https://img.shields.io/badge/-Tkinter-FF6F00)
+
+**Features**:
+- Military-grade file encryption
+- Cross-platform compatibility
+- Secure key management
+
+[![WordEncryptor Activity](https://github-readme-activity-graph.vercel.app/graph?username=root60&repo=WordEncryptor&theme=merko)](https://github.com/root60/WordEncryptor)
 
 ---
 
-### [🎯 Project Name 2](https://github.com/root60/repo2)
-_Another impactful description here_  
-![Language](https://img.shields.io/badge/TypeScript-100%25-3178C6?logo=typescript)
-![Stars](https://img.shields.io/github/stars/root60/repo2?color=yellow&logo=github)
-![Contributors](https://img.shields.io/github/contributors/root60/repo2?color=orange)
+### [🖥️ Kali-VPS-RDP](https://github.com/root60/Kali-VPS-RDP) 
+_Automated Pentesting Environment Setup_  
+![Stars](https://img.shields.io/github/stars/root60/Kali-VPS-RDP?style=flat-square&label=Stars&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/root60/Kali-VPS-RDP?style=flat-square&label=Updated&color=green)
+![License](https://img.shields.io/github/license/root60/Kali-VPS-RDP?style=flat-square&label=License)
+
+**Tech Stack**: 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+
+**Features**:
+- One-click environment deployment
+- Custom toolkit configurations
+- RDP optimization scripts
+
+[![Kali-VPS-RDP Card](https://github-readme-stats.vercel.app/api/pin/?username=root60&repo=Kali-VPS-RDP&theme=dark&show_owner=true)](https://github.com/root60/Kali-VPS-RDP)
 
 </div>
 
-## 🗂️ Project Showcase
+## 🚀 Quick Start Guides
 
-[![Project 1 Card](https://github-readme-stats.vercel.app/api/pin/?username=root60&repo=repo1&show_owner=true&theme=merko)](https://github.com/root60/Kali-VPS-RDP)
-[![Project 2 Card](https://github-readme-stats.vercel.app/api/pin/?username=root60&repo=repo2&show_owner=true&theme=merko)](https://github.com/root60/WordEncryptor)
-
-## 📊 Contribution Highlights
-
-```text
-🦾 Active Development Breakdown  
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-Python       ████████████████████ 65%   
-JavaScript   ████████████ 40%          
-Rust         ██████ 25%             
+### WordEncryptor Installation
+```bash
+git clone https://github.com/root60/WordEncryptor
+cd WordEncryptor
+pip install -r requirements.txt
+python encryptor.py
