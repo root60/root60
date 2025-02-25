@@ -1,13 +1,12 @@
 # 🎉 Welcome to root60's GitHub Profile 🚀  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=root60&show_icons=true&theme=tokyonight)  
-
 ---  
 
 ## 🚀 About Me  
 
-- **Name**: root60  
-- **Location**: 🌍 Earth  
+- **Full Name**: RedHydra 
+- **Code Name**: root60 🔥  
+- **Location**: Earth 🌍 
 - **Status**: 💻 Ready to Code 24/7  
 
 ---  
@@ -41,6 +40,10 @@
 ### 3. 🌐 Zone-H Profile  
 - My contributions to web defacement activities can be found on my Zone-H profile: [Zone-H - RedHydra](https://www.zone-h.org/archive/notifier=RedHydra) 🔍  
 - **About Web Defacement**: Showcasing my skills and sending messages through web defacement reports. The Zone-H archive documents my contributions in this area of cybersecurity and ethical hacking.  
+
+---  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=root60&show_icons=true&theme=tokyonight)  
 
 ---  
 
