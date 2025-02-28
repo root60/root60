@@ -4,10 +4,10 @@
 
 ## 👨‍💻 About Me  
 
-- **Name**: [Your Real Name]  
+- **Name**: RedHydra 
 - **Username**: root60  
 - **Focus**: Cybersecurity | Full-Stack Development | Open-Source Tools  
-- **Location**: [Your Location]  
+- **Location**: Earth  
 - **Status**: Building tools to solve real-world problems 🔧  
 
 ---
