@@ -4,10 +4,10 @@
 
 ## 👨‍💻 About Me  
 
-- **Name**: RedHydra 
+- **Name**: RedHydra
 - **Username**: root60  
 - **Focus**: Cybersecurity | Full-Stack Development | Open-Source Tools  
-- **Location**: Earth  
+- **Location**: Earth 
 - **Status**: Building tools to solve real-world problems 🔧  
 
 ---
@@ -36,18 +36,7 @@
 
 ---
 
-### 3. 🎓 University_Silly_Projects  
-**Fun and Experimental Projects**  
-- **Description**: A collection of quirky and experimental projects built during my university days.  
-- **Highlights**:  
-  - WiFi "Grade Booster" (Python)  
-  - Classroom Seat Reservation Bot  
-  - Exam Countdown Stress Simulator  
-- **Link**: [University_Silly_Projects Repository](https://github.com/root60/University_Silly_Projects)  
-
----
-
-### 4. ⚔️ Kali-VPS-RDP  
+### 3. ⚔️ Kali-VPS-RDP  
 **Kali Linux Remote Desktop Setup**  
 - **Description**: A script to set up Kali Linux with RDP for remote penetration testing.  
 - **Features**:  
@@ -55,17 +44,6 @@
   - Secure RDP access  
   - Easy deployment on cloud platforms  
 - **Link**: [Kali-VPS-RDP Repository](https://github.com/root60/Kali-VPS-RDP)  
-
----
-
-### 5. 🕶️ AnonShare  
-**Anonymous File Sharing Tool**  
-- **Description**: A secure, peer-to-peer file-sharing tool with self-destructing files.  
-- **Features**:  
-  - Tor-based file transfers  
-  - Zero metadata traces  
-  - User-friendly interface  
-- **Link**: [AnonShare Repository](https://github.com/root60/AnonShare)  
 
 ---
 
@@ -102,7 +80,7 @@
 
 ## 📬 Get in Touch  
 
-- **Telegram**: [ https://t.me/ItsRedHydra ]  
+- **Telegram**: [https://t.me/ItsRedHydra]  
 
 
 ---
