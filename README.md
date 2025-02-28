@@ -1,94 +1,112 @@
-# 🎉 Welcome to root60's GitHub Profile 🚀  
+# 🚀 Welcome to root60's GitHub Profile  
 
----  
+---
 
-## 🚀 About Me  
+## 👨‍💻 About Me  
 
-- **Full Name**: RedHydra 
-- **Code Name**: root60 🔥  
-- **Location**: Earth 🌍 
-- **Status**: 💻 Ready to Hack!
+- **Name**: [Your Real Name]  
+- **Username**: root60  
+- **Focus**: Cybersecurity | Full-Stack Development | Open-Source Tools  
+- **Location**: [Your Location]  
+- **Status**: Building tools to solve real-world problems 🔧  
 
----  
+---
 
-## 🔝 Highlighted Repositories  
+## 🔥 Highlighted Projects  
 
 ### 1. 🛡️ WordEncryptor  
-- **Description**: A secure and efficient word encryption tool.  
+**A Secure Text Encryption Tool**  
+- **Description**: A lightweight tool for encrypting and decrypting text using AES-256 encryption.  
 - **Features**:  
-  - 256-bit AES encryption 🛡️  
-  - Cross-platform compatibility 🌐  
-  - User-friendly interface 🎨  
-- **Links**:  
-  - ⭐ [Star it here!](https://github.com/root60/WordEncryptor)  
-  - 🍴 [Fork it here!](https://github.com/root60/WordEncryptor/fork)  
+  - CLI and GUI support  
+  - Cross-platform compatibility  
+  - Easy-to-use interface  
+- **Link**: [WordEncryptor Repository](https://github.com/root60/WordEncryptor)  
 
----  
+---
 
-### 2. 🌐 Kali-VPS-RDP  
-- **Description**: Access Kali Linux remotely with RDP for penetration testing and ethical hacking.  
+### 2. 📧 iCloud-Email-Generator  
+**Disposable Email Generator**  
+- **Description**: A Python-based tool for generating temporary iCloud email addresses.  
 - **Features**:  
-  - Fully configured Kali Linux environment 🔧  
-  - Secure RDP access 🔑  
-  - Pre-installed tools and scripts 🛠️  
-- **Links**:  
-  - ⭐ [Star it here!](https://github.com/root60/Kali-VPS-RDP)  
-  - 🍴 [Fork it here!](https://github.com/root60/Kali-VPS-RDP/fork)  
+  - Bulk email generation  
+  - SMTP verification  
+  - Customizable email prefixes  
+- **Link**: [iCloud-Email-Generator Repository](https://github.com/root60/iCloud-Email-Generator)  
 
----  
+---
 
-### 3. 🌐 Zone-H Profile  
-- My contributions to web defacement activities can be found on my Zone-H profile: [Zone-H - RedHydra](https://www.zone-h.org/archive/notifier=RedHydra) 🔍  
-- **About Web Defacement**: Showcasing my skills and sending messages through web defacement reports. The Zone-H archive documents my contributions in this area of cybersecurity and ethical hacking.  
+### 3. 🎓 University_Silly_Projects  
+**Fun and Experimental Projects**  
+- **Description**: A collection of quirky and experimental projects built during my university days.  
+- **Highlights**:  
+  - WiFi "Grade Booster" (Python)  
+  - Classroom Seat Reservation Bot  
+  - Exam Countdown Stress Simulator  
+- **Link**: [University_Silly_Projects Repository](https://github.com/root60/University_Silly_Projects)  
 
----  
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=root60&show_icons=true&theme=tokyonight)  
+### 4. ⚔️ Kali-VPS-RDP  
+**Kali Linux Remote Desktop Setup**  
+- **Description**: A script to set up Kali Linux with RDP for remote penetration testing.  
+- **Features**:  
+  - Pre-installed pentesting tools  
+  - Secure RDP access  
+  - Easy deployment on cloud platforms  
+- **Link**: [Kali-VPS-RDP Repository](https://github.com/root60/Kali-VPS-RDP)  
 
----  
+---
 
-## 🎯 New Project Ideas  
+### 5. 🕶️ AnonShare  
+**Anonymous File Sharing Tool**  
+- **Description**: A secure, peer-to-peer file-sharing tool with self-destructing files.  
+- **Features**:  
+  - Tor-based file transfers  
+  - Zero metadata traces  
+  - User-friendly interface  
+- **Link**: [AnonShare Repository](https://github.com/root60/AnonShare)  
 
-- **AI-Powered Security Audit Tool** 🤖  
-  - Automate security audits with AI-driven analysis.  
+---
 
-- **Network Monitoring Dashboard** 📊  
-  - Real-time network monitoring and analytics.  
+## 🔍 Zone-H Contributions  
+**Exploring the Boundaries of Cybersecurity**  
+- **Zone-H Profile**: [RedHydra on Zone-H](https://www.zone-h.org/archive/notifier=RedHydra)  
+- **About**: My contributions to Zone-H reflect my exploration of cybersecurity vulnerabilities and the importance of securing digital assets. These activities were conducted for research purposes and to raise awareness about the need for robust security measures.  
+- **Disclaimer**: All activities were performed in controlled environments or with explicit permission. I do not condone or support illegal hacking activities.  
 
-- **Cross-Platform Deployment Tool** 📦  
-  - Simplify deployment across multiple platforms.  
+---
 
-- **Automated Bug Fixing Assistant** 🛞️  
-  - AI-powered assistant for fixing common bugs.  
+## 📊 GitHub Stats  
 
----  
+![root60's GitHub Stats](https://github-readme-stats.vercel.app/api?username=root60&show_icons=true&theme=merko&hide_border=true&count_private=true)  
 
-## 📥 Get in Touch  
- 
-- **Telegram**: [https://t.me/ItsRedHydra](https://t.me/ItsRedHydra)
+---
 
----  
+## 🛠️ Skills  
 
-## 📚 Skills  
-
-- **Programming Languages**: Python, Java, C++, JavaScript  
-- **Frameworks**: Node.js, Django, React  
-- **Tools**: Docker, Kubernetes, Jenkins  
+- **Programming Languages**: Python, JavaScript, Java, C++  
+- **Frameworks**: React, Node.js, Django  
+- **Tools**: Docker, Kubernetes, Burp Suite, Wireshark  
 - **Platforms**: AWS, Azure, Google Cloud  
 
----  
+---
+
+## 🚀 Upcoming Projects  
+
+- **AI-Powered Security Audit Tool** 🤖  
+- **Network Monitoring Dashboard** 📊  
+- **Cross-Platform Deployment Tool** 📦  
+
+---
+
+## 📬 Get in Touch  
+
+- **Telegram**: [ https://t.me/ItsRedHydra ]  
 
 
-## 🎯 Interests  
+---
 
-- Cybersecurity  
-- Artificial Intelligence  
-- DevOps  
-- Cloud Computing  
-- Open Source Contributions  
+**⚠️ Disclaimer**: All tools and projects shared here are for educational and authorized use only. Always respect privacy laws and ethical guidelines.  
 
----  
-
-## 🎉 Let's Connect! 💻  
-
-Feel free to explore my repositories, fork them, and contribute. Let's build something amazing together! 🚀
+---
