@@ -1,4 +1,4 @@
-# 🚀 Welcome to [root60's GitHub Profile](https://github.com/root60)
+# 🚀 Welcome to [root60's Profile](https://github.com/root60)
 
 ---
 
