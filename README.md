@@ -1,49 +1,47 @@
-# 🚀 Welcome to root60's GitHub Profile  
+# 🚀 Welcome to [root60's GitHub Profile](https://github.com/root60)
 
 ---
 
-## 👨‍💻 About Me  
-
-- **Name**: RedHydra
+## 👨‍💻 About Me
+- **Name**: RedHydra  
 - **Username**: root60  
-- **Focus**: Cybersecurity | Full-Stack Development | Open-Source Tools  
-- **Location**: Earth 
-- **Status**: Building tools to solve real-world problems 🔧  
+- **Focus Areas**: Cybersecurity • Full-Stack Development • Open-Source Tools  
+- **Location**: Earth  
+- **Current Mission**: Building tools that make a difference 🛠️  
 
 ---
 
-## 🔥 Highlighted Projects  
+## 🔥 Highlighted Projects
 
-### 1. 🛡️ WordEncryptor  
-**A Secure Text Encryption Tool**  
-- **Description**: A lightweight tool for encrypting and decrypting text using AES-256 encryption.  
-- **Features**:  
-  - CLI and GUI support  
-  - Cross-platform compatibility  
-  - Easy-to-use interface  
-- **Link**: [WordEncryptor Repository](https://github.com/root60/WordEncryptor)  
+### 1. 🕷 [WPScrapper](https://github.com/root60/WPScrapper)  
+**Advanced WordPress Discovery Tool**  
+- Finds WordPress sites using dorks + subdomain scanning  
+- AI-powered dork generation with Gemini  
+- Real-time PyQt5 GUI with results export  
 
 ---
 
-### 2. 📧 iCloud-Email-Generator  
-**Disposable Email Generator**  
-- **Description**: A Python-based tool for generating temporary iCloud email addresses.  
-- **Features**:  
-  - Bulk email generation  
-  - SMTP verification  
-  - Customizable email prefixes  
-- **Link**: [iCloud-Email-Generator Repository](https://github.com/root60/iCloud-Email-Generator)  
+### 2. ⚡ [HydraStrike](https://github.com/root60/HydraStrike)  
+**Offensive Security Toolkit**  
+- Multi-module framework for security testing  
+- Plugin-based architecture for flexibility  
+- Cross-platform CLI & GUI modes  
 
 ---
 
-### 3. ⚔️ Kali-VPS-RDP  
-**Kali Linux Remote Desktop Setup**  
-- **Description**: A script to set up Kali Linux with RDP for remote penetration testing.  
-- **Features**:  
-  - Pre-installed pentesting tools  
-  - Secure RDP access  
-  - Easy deployment on cloud platforms  
-- **Link**: [Kali-VPS-RDP Repository](https://github.com/root60/Kali-VPS-RDP)  
+### 3. 🔍 [SubPookyFinder](https://github.com/root60/SubPookyFinder)  
+**Subdomain Enumeration & Recon Tool**  
+- Passive + active subdomain discovery  
+- Supports certificate transparency logs, wordlists, and APIs  
+- JSON & TXT output for easy automation  
+
+---
+
+### 4. 🔐 [WordEncryptor](https://github.com/root60/WordEncryptor)  
+**Secure Text Encryption Tool**  
+- AES-256 encryption & decryption  
+- CLI & GUI support  
+- Cross-platform compatibility  
 
 ---
 
@@ -55,36 +53,31 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![root60's GitHub Stats](https://github-readme-stats.vercel.app/api?username=root60&show_icons=true&theme=merko&hide_border=true&count_private=true)  
-
----
-
-## 🛠️ Skills  
-
-- **Programming Languages**: Python, JavaScript, Java, C++  
-- **Frameworks**: React, Node.js, Django  
-- **Tools**: Docker, Kubernetes, Burp Suite, Wireshark  
-- **Platforms**: AWS, Azure, Google Cloud  
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=root60&show_icons=true&theme=merko&hide_border=true&count_private=true)
 
 ---
 
-## 🚀 Upcoming Projects  
-
-- **AI-Powered Security Audit Tool** 🤖  
-- **Network Monitoring Dashboard** 📊  
-- **Cross-Platform Deployment Tool** 📦  
-
----
-
-## 📬 Get in Touch  
-
-- **Telegram**: [https://t.me/ItsRedHydra]  
-
+## 🛠️ Skills & Tools
+- **Languages**: Python • JavaScript • Java • C++  
+- **Frameworks**: React • Node.js • Django  
+- **Tools**: Docker • Kubernetes • Burp Suite • Wireshark  
+- **Cloud**: AWS • Azure • Google Cloud  
 
 ---
 
-**⚠️ Disclaimer**: All tools and projects shared here are for educational and authorized use only. Always respect privacy laws and ethical guidelines.  
+## 🚀 Upcoming Projects
+- AI-Powered Security Audit Tool 🤖  
+- Network Monitoring Dashboard 📊  
+- Cross-Platform Deployment Hub 📦  
+
+---
+
+## 📬 Get in Touch
+- **Telegram**: [@ItsRedHydra](https://t.me/ItsRedHydra)  
+
+---
+
+> ⚠ **Disclaimer**: All tools and projects are for educational and authorized use only. Always respect privacy laws and ethical guidelines.
 
 ---
