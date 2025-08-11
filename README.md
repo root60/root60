@@ -5,7 +5,6 @@
 ## 👨‍💻 About Me
 - **Name**: RedHydra  
 - **Username**: root60  
-- **Focus Areas**: Cybersecurity • Full-Stack Development • Open-Source Tools  
 - **Location**: Earth  
 - **Current Mission**: Building tools that make a difference 🛠️  
 
